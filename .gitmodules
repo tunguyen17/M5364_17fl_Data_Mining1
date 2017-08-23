@@ -1,3 +1,6 @@
 [submodule "Professor/sources/PythonDataScienceHandbook"]
 	path = Professor/sources/PythonDataScienceHandbook
 	url = https://github.com/jakevdp/PythonDataScienceHandbook.git
+[submodule "Professor/sources/WhirlwindTourOfPython"]
+	path = Professor/sources/WhirlwindTourOfPython
+	url = https://github.com/jakevdp/WhirlwindTourOfPython.git
