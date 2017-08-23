@@ -4,3 +4,9 @@
 [submodule "Professor/sources/WhirlwindTourOfPython"]
 	path = Professor/sources/WhirlwindTourOfPython
 	url = https://github.com/jakevdp/WhirlwindTourOfPython.git
+[submodule "prof/sources/WhirlwindTourOfPython"]
+	path = prof/sources/WhirlwindTourOfPython
+	url = https://github.com/jakevdp/WhirlwindTourOfPython.git
+[submodule "prof/sources/PythonDataScienceHandbook"]
+	path = prof/sources/PythonDataScienceHandbook
+	url = https://github.com/jakevdp/PythonDataScienceHandbook.git
