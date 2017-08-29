@@ -2,3 +2,9 @@
 1. Install git
 1. Do git tutorials
 1. Install Anaconda
+
+- this
+- is
+- a
+- bullet
+- list
