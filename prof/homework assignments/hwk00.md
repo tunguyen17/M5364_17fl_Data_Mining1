@@ -8,3 +8,5 @@
 - a
 - bullet
 - list
+
+$\frac{\pi}{3}$
